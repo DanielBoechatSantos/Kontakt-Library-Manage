@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IMG/favicom.png</file>
+        <file>IMG/iniciar.png</file>
+    </qresource>
+</RCC>
